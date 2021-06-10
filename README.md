@@ -1,16 +1,15 @@
-### Hi there 👋
+# 🌊 G'Day
+### 😄 About Me
++ 매일 성장하는 개발자, 정찬엽입니다.
++ 코어 지식을 좋아합니다.
++ 취미로 기술문서를 번역하고 영어에 능통합니다.
 
-<!--
-**devops3199/devops3199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⌨️ Tech
+![typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white)
+![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
+![C#](https://img.shields.io/badge/-C%20Sharp-239120?&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?&logo=dot-net&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white)
