@@ -10,6 +10,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%20Sharp-239120?&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?&logo=dot-net&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?&logo=dotnet&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white)
