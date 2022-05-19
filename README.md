@@ -13,6 +13,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?&logo=Cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?&logo=Jest&logoColor=white)
 ![Koa](https://img.shields.io/badge/-Koa-33333D?&logo=Koa&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white)
