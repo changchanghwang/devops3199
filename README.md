@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-ff4454?&logo=react&query&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white)\
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?&logo=Cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&logo=Jest&logoColor=white)
