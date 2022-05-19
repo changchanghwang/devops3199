@@ -6,8 +6,7 @@
 
 ### ⌨️ Tech
 ![typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white)
-![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-3EBA84?&logo=vue&logoColor=white)
+![vue](https://img.shields.io/badge/-vue.js-4FC08D?&logo=vue&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-ff4454?&logo=react&query&logoColor=white)
