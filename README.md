@@ -15,7 +15,7 @@
 ## 🌓 Previous Tech
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?&logo=react&logoColor=white&style=flat-square)
-![React Query](https://img.shields.io/badge/-React_Query-ff4454?&logo=react&query&logoColor=white&style=flat-square)
+![React Query](https://img.shields.io/badge/-React_Query-ff4454?&logo=react-query&logoColor=white&style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white&style=flat-square)
 ![Koa](https://img.shields.io/badge/-Koa-33333D?&logo=Koa&logoColor=white&style=flat-square)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?&logo=.NET&logoColor=white&style=flat-square)
